@@ -3,31 +3,29 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Alex Hardwicke
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: me@alexhardwicke.com
+    phone: +46 708 748985
+    timezone: Europe/Stockholm Timezone
+    citizenship: Swedish, British
+    website: www.alexhardwicke.com #do not add http://
+    linkedin: alexhardwicke
+    github: alexhardwicke
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@lokar'
+    stack-overflow: 2079472/alex-hardwicke
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -35,187 +33,144 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Swedish
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Woodworking
           link:
 
-        - item: Snowboarding
+        - item: Gardening
           link:
 
-        - item: Cooking
+        - item: Painting
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I started programming when I was 12. I began with C++ and after two years
+      I started using DirectX and learning games development. I got comfortable
+      writing efficient and performant code. I started reading games
+      development in the UK at university, but after a year I moved to Sweden
+      and read Computer Science, still sticking with a focus on performance,
+      efficiency and algorithms. I realised I didn't need to work on games
+      to be able to have interesting challenges and be able to scratch that itch
+      of writing excellent and fast code.
+      Since the year I graduated I've been working at Erisma Technologies and am
+      still very happy there. I've migrated the entire software suite through one
+      generational change and am currently working on multiple large technology
+      shifts at the company.
+      I am a full stack developer but my passion is in efficiency, solving problems
+      that require well designed and written algorithms and performant code, which
+      tends to mean I enjoy backend development more.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Science
+        university: Malmö University
+        time: 2011 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Read Computer Science at Malmö university.
+          UK 1st class / Swedish VG
+            - Swedish VG (UK equivalent 1st Class)
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Developer
+        time: 2014 - Present
+        company: Erisma Technologies, Malmö
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Started as a junior developer and have made substantial impact on
+          the company - and am now a senior developer and architect.
+          Also helped improve developer workflow inside the company and made
+          various substantial improvements to the products.
+            - Added proper error tracking throughout the company's software suite
+            - Migrated all software from .NET 3.5 to .NET 4.5
+            - Currently migrating all software from .NET 4.5 to .NET 6
+            - Moved software to git and taught employees how to use git effectively
+            - Set up a modern build system with repeatable builds, version management
+            - Migrated software distribution to the cloud
+            - Architected next generation of server and mobile clients from the ground up
+      - role: Instructor
+        time: 2014 - 2014
+        company: Edument, Malmö
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          Worked as an instructor and course creator. Learnt a lot and
+          made positive contributions but quickly realised this wasn't
+          the career for me as my passion lies in development, not
+          teaching.
+            - Authored two courses for teaching Java, beginner and intermediate levels.
+            - Taught git
+      - role: Teaching Assistant
         time: 2012 - 2014
-        company: Amazon, London
+        company: Malmö University, Malmö
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as a teaching assistant during my second and third year
+          at university. Helped the following years with following subjects:
+            - First years (Computer Science)
+            - First years (Electrical Engineering)
+            - Second & third years (my classmates) (Android development)
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I've made (and still make) various private projects I use at home, but
+      two of these were published publically and distributed via the platform's
+      native app distribution.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Surge
+        link: "https://github.com/alexhardwicke/Surge"
+        tagline: "A UWP remote interface for the Transmission BitTorrent client. Around 50,000 downloads. Open sourced. Archived because Microsoft removed support for F# in new UWP applications."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Promenade
+        link: "https://github.com/alexhardwicke/promenade"
+        tagline: "A simple app for tracking walks and adding photos. My first attempt at developing an Android app, written over a decade ago. Open sourced for posterity."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I've made successful open source contributions to these projects.
     contributions:
-      - title: Tempo
+      - title: Newtonsoft Json.net
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Bugfixes for using Json.net with F#"
 
-      - title: Atom
+      - title: Xamarin Forms
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Various bugfixes for Xamarin Forms UI components"
 
-      - title: Delta
+      - title: Home Assistant
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Added json support to the command line sensor, bugfixes, documentation"
 
 skills:
     title: Skills &amp; Proficiency
-
+    intro: >
+      These languages/technologies/frameworks I either work with professionally
+      or privately, and I feel comfortable working with all of them.
     toolset:
-      - name: Python & Django
+      - name: ASP.NET
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C# & .NET
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Git
+        level: 96%
 
-      - name: HTML5 & CSS
+      - name: MSSQL
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Docker
+        level: 90%
+
+      - name: F#
+        level: 90%
+
+      - name: JavaScript
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: C++
+        level: 82%
