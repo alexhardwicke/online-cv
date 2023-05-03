@@ -45,11 +45,8 @@ sidebar:
         - item: Gardening
           link:
 
-        - item: Painting
-          link:
-
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       I started programming when I was 12. I began with C++ and after two years
       I started using DirectX and learning games development. I got comfortable
@@ -68,18 +65,16 @@ career-profile:
       I am a full stack developer but my passion is in efficiency, solving problems
       that require well designed and written algorithms and performant code, which
       tends to mean I enjoy backend development more.
-education:
-    title: Education
-    info:
-      - degree: BSc in Computer Science
-        university: Malmö University
-        time: 2011 - 2014
-        details: |
-          Read Computer Science at Malmö university.
-          UK 1st class / Swedish VG
-            - Swedish VG (UK equivalent 1st Class)
+
+      Outside of work I do still enjoy technology - I have a server rack with
+      multiple servers and rack mounted routers and switches, I dabble with various
+      kinds of home automation, etc.
+
+      However, I do try to take breaks from technology - I have a woodworking
+      workshop where I work without anything digital and I have a large (5500m2)
+      garden I take care of.
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Senior Developer
         time: 2014 - Present
@@ -115,6 +110,16 @@ experiences:
             - First years (Computer Science)
             - First years (Electrical Engineering)
             - Second & third years (my classmates) (Android development)
+education:
+    title: Education
+    info:
+      - degree: BSc in Computer Science
+        university: Malmö University
+        time: 2011 - 2014
+        details: |
+          Read Computer Science at Malmö university.
+          UK 1st class / Swedish VG
+            - Swedish VG (UK equivalent 1st Class)
 projects:
     title: Projects
     intro: >
