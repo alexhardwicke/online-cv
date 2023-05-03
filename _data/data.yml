@@ -16,7 +16,7 @@ sidebar:
     phone: +46 708 748985
     timezone: Europe/Stockholm Timezone
     citizenship: Swedish, British
-    website: www.alexhardwicke.com #do not add http://
+    website:
     linkedin: alexhardwicke
     github: alexhardwicke
     telegram: # add your nickname without '@' sign
@@ -121,11 +121,11 @@ projects:
       native app distribution.
     assignments:
       - title: Surge
-        link: "https://github.com/alexhardwicke/Surge"
+        link: "github.com/alexhardwicke/Surge"
         tagline: "A UWP remote interface for the Transmission BitTorrent client. Around 50,000 downloads. Open sourced. Archived because Microsoft removed support for F# in new UWP applications."
 
       - title: Promenade
-        link: "https://github.com/alexhardwicke/promenade"
+        link: "github.com/alexhardwicke/promenade"
         tagline: "A simple app for tracking walks and adding photos. My first attempt at developing an Android app, written over a decade ago. Open sourced for posterity."
 
 oss:
@@ -133,16 +133,16 @@ oss:
     intro: >
       I've made successful open source contributions to these projects.
     contributions:
-      - title: Newtonsoft Json.net
-        link: "#"
+      - title: Newtonsoft Json.NET
+        link: "github.com/JamesNK/Newtonsoft.Json"
         tagline: "Bugfixes for using Json.net with F#"
 
       - title: Xamarin Forms
-        link: "#"
+        link: "github.com/xamarin/Xamarin.Forms"
         tagline: "Various bugfixes for Xamarin Forms UI components"
 
       - title: Home Assistant
-        link: "#"
+        link: "github.com/home-assistant/core"
         tagline: "Added json support to the command line sensor, bugfixes, documentation"
 
 skills:
