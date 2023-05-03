@@ -59,10 +59,12 @@ career-profile:
       efficiency and algorithms. I realised I didn't need to work on games
       to be able to have interesting challenges and be able to scratch that itch
       of writing excellent and fast code.
+
       Since the year I graduated I've been working at Erisma Technologies and am
       still very happy there. I've migrated the entire software suite through one
       generational change and am currently working on multiple large technology
       shifts at the company.
+
       I am a full stack developer but my passion is in efficiency, solving problems
       that require well designed and written algorithms and performant code, which
       tends to mean I enjoy backend development more.
@@ -121,11 +123,11 @@ projects:
       native app distribution.
     assignments:
       - title: Surge
-        link: "github.com/alexhardwicke/Surge"
+        link: "https://github.com/alexhardwicke/Surge"
         tagline: "A UWP remote interface for the Transmission BitTorrent client. Around 50,000 downloads. Open sourced. Archived because Microsoft removed support for F# in new UWP applications."
 
       - title: Promenade
-        link: "github.com/alexhardwicke/promenade"
+        link: "https://github.com/alexhardwicke/promenade"
         tagline: "A simple app for tracking walks and adding photos. My first attempt at developing an Android app, written over a decade ago. Open sourced for posterity."
 
 oss:
@@ -134,16 +136,16 @@ oss:
       I've made successful open source contributions to these projects.
     contributions:
       - title: Newtonsoft Json.NET
-        link: "github.com/JamesNK/Newtonsoft.Json"
+        link: "https://github.com/JamesNK/Newtonsoft.Json"
         tagline: "Bugfixes for using Json.net with F#"
 
       - title: Xamarin Forms
-        link: "github.com/xamarin/Xamarin.Forms"
+        link: "https://github.com/xamarin/Xamarin.Forms"
         tagline: "Various bugfixes for Xamarin Forms UI components"
 
       - title: Home Assistant
-        link: "github.com/home-assistant/core"
-        tagline: "Added json support to the command line sensor, bugfixes, documentation"
+        link: "https://github.com/home-assistant/core"
+        tagline: "Added sensor features, bugfixes, documentation"
 
 skills:
     title: Skills &amp; Proficiency
